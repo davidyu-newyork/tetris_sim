@@ -6,3 +6,5 @@ Run in most Mips enviroments
 Main  file is proj3.asm
 
 game.txt files represents different game boards for testing
+
+Other files are testing files
